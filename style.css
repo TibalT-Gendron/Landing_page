@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.vertical {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.horizontal {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
