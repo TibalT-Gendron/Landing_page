@@ -12,3 +12,7 @@ body {
     display: flex;
     flex-direction: row;
 }
+
+.description {
+    width: 500px;
+}
