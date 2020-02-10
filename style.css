@@ -3,14 +3,16 @@ body {
     flex-direction: column;
 }
 
-.vertical{
+.vertical {
     display: flex;
     flex-direction: column;
+    justify-content: flex-start;
 }
 
-.horizontal{
+.horizontal {
     display: flex;
     flex-direction: row;
+    justify-content: space-around;
 }
 
 .description {
